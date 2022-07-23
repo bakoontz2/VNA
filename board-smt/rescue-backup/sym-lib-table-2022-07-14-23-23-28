@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "bluepill")(type "Legacy")(uri "${KIPRJMOD}/bluepill.lib")(options "")(descr ""))
+  (lib (name "sa612")(type "Legacy")(uri "${KIPRJMOD}/sa612.lib")(options "")(descr ""))
+  (lib (name "si5351a")(type "Legacy")(uri "${KIPRJMOD}/si5351a.lib")(options "")(descr ""))
+  (lib (name "AMS1117-3V3")(type "Legacy")(uri "${KIPRJMOD}/AMS1117-3V3.lib")(options "")(descr ""))
+  (lib (name "mt3608")(type "Legacy")(uri "${KIPRJMOD}/mt3608.lib")(options "")(descr ""))
+  (lib (name "cn3052")(type "Legacy")(uri "${KIPRJMOD}/cn3052.lib")(options "")(descr ""))
+  (lib (name "microsd_spi_cd")(type "Legacy")(uri "${KIPRJMOD}/microsd_spi_cd.lib")(options "")(descr ""))
+  (lib (name "stm32f103c8t6")(type "Legacy")(uri "${KIPRJMOD}/stm32f103c8t6.lib")(options "")(descr ""))
+)
